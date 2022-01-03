@@ -1,0 +1,35 @@
+gih1{
+color:blue;
+text-align: center;
+font: 50px;
+}
+p{
+    text-align: center;color:blue;
+}
+input[type="text"]{
+    border-color: blue;width:50%;align-items: center;
+}
+input[type="submit"]{
+    background-color: rgb(41, 41, 184);
+    text-align: centre;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    }
+form{
+    background-color: white;
+}
+input[type="button"]{
+    background-color: green;text-align: center;
+    
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+input[type="password"]{
+    text-align: center;
+}
+button{text-align: center;}
+
+
